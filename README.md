@@ -18,4 +18,3 @@ Making this change was a risk for me, and thankfully, I am having the best time.
 - 🤔 I’m looking for help with building an e-commerce site!
 - 💬 Ask me about the time I went to Brazil without learning Portuguese first. 😆
 - ⚡ Fun fact: I have bungy jumped off the world's highest bungy bridge (S.Africa, 709 ft || 216 m) 
--->
