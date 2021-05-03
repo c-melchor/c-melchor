@@ -20,6 +20,10 @@ Making this change was a risk for me, and thankfully, I am having the best time.
 - ⚡ Fun fact: I have bungy jumped off the world's highest bungy bridge (S.Africa, 709 ft || 216 m) 
 - 📩 I can be reached on [LinkedIn](https://www.linkedin.com/in/camelchor/)
 
+
+------
+![Github stats](https://github-readme-stats.vercel.app/api?username=c-melchor&show_icons=true&count_private=true)
+
 ------
 🧰 Toolbox
 
