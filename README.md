@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 I am a career changer, from fitness to ⭐ TECH ⭐. 
 Making this change was a risk for me, and thankfully, I am having the best time. 😄
 
-- 🔭 I’m currently working on an application for the nonprofit Humans Rights First called Human Rights First Asylum Analysis. This application is a place for refugee representatives to collaborate on a dataset for their clients.
+- 🔭 I’m currently working on personal projects to strengthen my portfolio, my current project is an application using OMDB.
 - 👯 I’m looking to collaborate on anything having to do with e-commerce
 - 🤔 I'm currently learning more about data structures and algorithms.
 - 💬 Ask me about the time I went to Brazil without learning Portuguese first. 😆
