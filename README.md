@@ -1,26 +1,14 @@
 ### Hi there, I'm Christina 👋
 
-<!--
-**c-melchor/c-melchor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!-- 
-- 🤔 I’m looking for help with ...
-- 🔭 I’m currently working on ...
-- 📫 How to reach me: 
-- -->
-
 I am a career changer, from fitness to ⭐ TECH ⭐. 
 I loved working in the fitness industry, I worked a few customer facing roles and absolutely loved it. However, I found that the fitness industry was not challenging enough; so I dove into the world of development. 
 
-I am a frontend developer, working mostly with React and JavaScript but open to learning other frameworks and languages. 
+I am a Software Engineer, working mostly with React and JavaScript but open to learning other frameworks and languages. 
 
-- 🔭 I’m currently working on expanding a weather application I recently built.
-- 👯 I’m looking to collaborate on anything having to do with e-commerce.
+- 🔭 I’m currently working on an Advanced React and Redux course on Udemy.
 - 🤔 I'm currently learning more about data structures and algorithms.
 - 💬 Ask me about the time I went to Brazil without learning Portuguese first. 😆
 - ⚡ Fun fact: I have bungy jumped off the world's highest bungy bridge (S.Africa, 709 ft || 216 m) 
-- 📩 I can be reached on [LinkedIn](https://www.linkedin.com/in/camelchor/)
 
 
 ------
